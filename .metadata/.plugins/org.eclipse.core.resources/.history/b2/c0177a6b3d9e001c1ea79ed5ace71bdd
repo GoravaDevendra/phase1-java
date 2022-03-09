@@ -1,0 +1,17 @@
+package diamondproblem;
+
+public class Testclassimplementsfirstsecondimplementssecond {
+	 public void show() 
+	    {  
+	        
+	        second.super.show(); 
+	    } 
+	    public static void main(String args[]) 
+	    { 
+	        Testclassimplementsfirstsecond ob = new Testclassimplementsfirstsecond(); 
+	        ob.show(); 
+	    } 
+	}
+	
+
+
